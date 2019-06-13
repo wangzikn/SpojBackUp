@@ -1,0 +1,5 @@
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/Users/nguyenquangvinh/Projects/Exam/Exam/bin/Debug/Exam.pdb
+/Users/nguyenquangvinh/Projects/Exam/Exam/bin/Debug/Exam.exe
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.exe
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.pdb

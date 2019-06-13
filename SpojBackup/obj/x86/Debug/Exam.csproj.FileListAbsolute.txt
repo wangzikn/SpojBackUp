@@ -1,0 +1,6 @@
+/Users/nguyenquangvinh/Projects/Exam/Exam/bin/Debug/Exam.exe
+/Users/nguyenquangvinh/Projects/Exam/Exam/bin/Debug/Exam.pdb
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.csprojAssemblyReference.cache
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.csproj.CoreCompileInputs.cache
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.exe
+/Users/nguyenquangvinh/Projects/Exam/Exam/obj/x86/Debug/Exam.pdb
